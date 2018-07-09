@@ -13,7 +13,7 @@ SD card pins:
 * MISO: 12
 * SCK: 13
 
-pins on PORTA on melco machine:
+pins (For Arduino Uno)  on PORTA on melco machine:
 1-D0
 2-D1
 3-D2
