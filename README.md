@@ -4,6 +4,8 @@ Melco-Punchtape-Emu-Arduino
 Uses arduino+SD shield to emulate punch tape reader on melco embroidery machine. 
 Pushes data from the first `*.dst` file it can find on a SD card.
 
+Load a file from the paper tape machine on the melco to read from the SD card (LOAD TAPE RUN)
+
 ### Pinout
 
 SD card pins:
